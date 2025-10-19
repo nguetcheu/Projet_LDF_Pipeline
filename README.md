@@ -83,5 +83,5 @@ streamlit run src/dashboard/app.py
 
 ## Auteur
 
-**Votre Nom**  
+**NGUETCHEU KUINSI Dominique**  
 Projet LDF - [20/10/2025]
