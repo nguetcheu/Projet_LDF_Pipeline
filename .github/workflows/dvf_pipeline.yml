@@ -26,7 +26,7 @@ jobs:
       - name: Run Scrapy spider
         run: |
           cd src/scraper/dvf_scraper
-          scrapy crawl dvf_spider
+          scrapy runspider spiders/dvf_spider.py
 
       - name: Run ingestion script
         run: python src/ingestion/download_dvf.py
